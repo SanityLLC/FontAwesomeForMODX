@@ -1,0 +1,2 @@
+[[+cdn:default=`local`:strtolower:replace=`bootstrap==maxcdn`:select=`cloudflare=//cdnjs.cloudflare.com/ajax/libs/font-awesome/&maxcdn=//maxcdn.bootstrapcdn.com/font-awesome/&local=[[++assets_url]]components/fontawesome/`:toPlaceholder=`FONTAWESOMEURL`]]
+<link rel="stylesheet" href="[[+FONTAWESOMEURL]][[+fontAwesomeVersion:default=`4.3.0`]]/css/font-awesome.min.css">
