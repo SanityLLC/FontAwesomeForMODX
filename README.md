@@ -27,8 +27,4 @@ Font Awesome 4.x.x will use the tpl.Fa4.include as the base.
 Upon release of Font Awesome 5.x.x the package will include a tpl.fA5.include and corresponding chunk to be included in templates.
 
 ##Links##
-<<<<<<< HEAD
 Vendor: [Font Awesome] (http://fortawesome.github.io/Font-Awesome/)
-=======
-Vendor: [Font Awesome] (http://fortawesome.github.io/Font-Awesome/)
->>>>>>> refs/remotes/origin/master
