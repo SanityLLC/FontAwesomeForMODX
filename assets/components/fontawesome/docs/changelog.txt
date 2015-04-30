@@ -1,0 +1,5 @@
+Changelog file for FontAwesomeForMODX component.
+
+FontAwesomeForMODX 4.3.0
+====================================
+- Initial Release
